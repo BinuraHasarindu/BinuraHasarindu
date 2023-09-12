@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Binura Hasarindhu</h1>
-<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/><br>
 <h3 align="center">Computer Science Undergraduate</h3>
+
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
+</div>
+
 
 - 🌱 I’m a **Computer Science undergraduate at University of Colombo School of Computing**
 
