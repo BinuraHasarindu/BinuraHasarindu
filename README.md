@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Binura Hasarindhu</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
-<img align="right" alt="Coding" width="200" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe"/>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" alt="binurahasarindu" /> </p>
 
