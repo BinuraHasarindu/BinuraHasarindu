@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="200"/>
 </div>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+
 
 - 🌱 I’m a **Computer Science undergraduate at University of Colombo School of Computing**
 
